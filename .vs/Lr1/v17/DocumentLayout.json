@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sasha\\source\\repos\\Lr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D6C37B-6020-4DFC-9AE9-11E8CDC80449}|ShowAuto\\ShowAuto.csproj|c:\\users\\sasha\\source\\repos\\lr1\\showauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D6C37B-6020-4DFC-9AE9-11E8CDC80449}|ShowAuto\\ShowAuto.csproj|solutionrelative:showauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|c:\\users\\sasha\\source\\repos\\lr1\\carlibrary\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|c:\\users\\sasha\\source\\repos\\lr1\\carlibrary\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|c:\\users\\sasha\\source\\repos\\lr1\\carlibrary\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B17CCA-7802-40FA-9C20-751422ECD262}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8F4B31-8EAF-4B66-97E2-9FB6CCE337C5}|CarLibraryTest\\CarLibraryTest.csproj|c:\\users\\sasha\\source\\repos\\lr1\\carlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8F4B31-8EAF-4B66-97E2-9FB6CCE337C5}|CarLibraryTest\\CarLibraryTest.csproj|solutionrelative:carlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibraryTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CarLibraryTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibraryTest\\UnitTest1.cs",
+              "RelativeToolTip": "CarLibraryTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:52:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Lr1\\ShowAuto\\Program.cs",
+              "RelativeDocumentMoniker": "ShowAuto\\Program.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Lr1\\ShowAuto\\Program.cs",
+              "RelativeToolTip": "ShowAuto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:32:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Passenger.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Passenger.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Passenger.cs",
+              "RelativeToolTip": "CarLibrary\\Passenger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:31:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Cargo.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Cargo.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Cargo.cs",
+              "RelativeToolTip": "CarLibrary\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:30:03.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Auto.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Auto.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Lr1\\CarLibrary\\Auto.cs",
+              "RelativeToolTip": "CarLibrary\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:00:12.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
